@@ -14,3 +14,8 @@ To repozytorium zawiera sprawozdania (wraz z kodem źródłowym w **Typst**) z �
 | Lab_45 | Ładunek właściwy elektronu e/m | [Ładunek właściwy elektronu e/m](https://pf.agh.edu.pl/cwiczenia/45-ladunek-wlasciwy-elektronu-e/m) | [Lab_45](Lab_45) |
 | Lab_134| Ogniwo słoneczne | [Ogniwo słoneczne](https://pf.agh.edu.pl/cwiczenia/134-ogniwo-sloneczne) | [Lab_134](Lab_134) |
 
+## Autorzy
+<ul>
+<li><b>Aleksander Jóźwik</b></li>
+<li><b>Adrian Krawczyk</b></li>
+</ul>
